@@ -4,7 +4,7 @@
 
 ## [hackerrank.com](https://www.hackerrank.com/)
 
-01. [HackerRank Python Answers](./HackerRank-Python-Answers.ipynb)
+01. [HackerRank Python Answers](https://github.com/sue-yavuz/01-Python)
 
 
 ## [codewars.com](https://www.codewars.com/)
